@@ -1,4 +1,4 @@
-This is the Lensroom file where I will be posting the pages, Developers can directly copy from here.
+This is the Lensroom file where I will be posting the pages, Developers can directly copy from here. Currently there is only one profile page, it's location is \Lensroom\src\Pages\Profile3.tsx
 
 ## Installation
 

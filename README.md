@@ -1,5 +1,4 @@
-Lensroom is a powerful and user-friendly application designed to help you manage, organize, and edit your photo collection effortlessly. Whether you're a professional photographer or a casual user, Lensroom provides the tools you need to enhance your photos and keep them organized.
-
+This is the Lensroom file where I will be posting the pages, Developers can directly copy from here.
 
 ## Installation
 

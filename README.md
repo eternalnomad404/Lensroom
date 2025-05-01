@@ -4,7 +4,7 @@ This is the Lensroom file where I will be posting the pages, Developers can dire
 
 1. Clone the repository:
   ```bash
-  git clone https://github.com/yourusername/Lensroom.git
+  git clone https://github.com/eternalnomad404/Lensroom.git
   ```
 2. Navigate to the project directory:
   ```bash
@@ -16,5 +16,5 @@ This is the Lensroom file where I will be posting the pages, Developers can dire
   ```
 4. Start the application:
   ```bash
-  npm start
+  npm run dev
   ```
